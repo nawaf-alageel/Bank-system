@@ -93,6 +93,43 @@ The Bank Management System allows users to:
 
 ---
 
+## 📚 Project Files
+
+```
+Opp-Bank-system/
+│
+├── build/
+│   └── classes/
+│       └── javaapplication2/
+│           ├── JavaApplication2.class
+│           ├── Account.class
+│           ├── BankAccount.class
+│           └── Current.class
+│   └── built-jar.properties
+│
+├── nbproject/
+│   └── private/
+│       ├── build-impl.xml
+│       ├── genfiles.properties
+│       ├── project.properties
+│       └── project.xml
+│
+├── src/
+│   └── javaapplication2/
+│       ├── JavaApplication2.java
+│       ├── Account.java
+│       ├── BankAccount.java
+│       ├── Current.java
+│       └── Data Base.txt
+│
+├── build.xml
+├── manifest.mf
+├── .gitignore
+└── README.md
+```
+
+---
+
 ## 👤 Team Members
 
 - **Saad** 👨‍💻
